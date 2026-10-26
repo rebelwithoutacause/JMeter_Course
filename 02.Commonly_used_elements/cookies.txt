@@ -1,0 +1,2 @@
+# JMeter generated Cookie file
+httpbin.org	TRUE		FALSE	0	my_cookie_name	12345
